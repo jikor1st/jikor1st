@@ -1,3 +1,7 @@
-# ㄱ(기역)부터 ㅎ(히흫) 까지
+# 안녕하세요 프론트엔드 개발자 지기역입니다.
 
-### BLOG : https://jikor1st.tistory.com/
+## 이력서
+- https://jigi-scripts.vercel.app/
+
+## 블로그
+- https://jikor1st.tistory.com/
