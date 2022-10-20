@@ -2,7 +2,10 @@
 저의 이름처럼 ㄱ부터 ㅎ까지 단계적으로 나아갑니다.
 
 ### 이력서
-- https://jigi-scripts.vercel.app/
+https://jigi-scripts.vercel.app/
+
+### 자기소개서
+https://jigi-scripts.vercel.app/resume/introduce
 
 ### 블로그
-- https://jikor1st.tistory.com/
+https://jikor1st.tistory.com/
